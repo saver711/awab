@@ -1,0 +1,52 @@
+.primary-color{
+    color: #cfa144;
+}
+
+.mr-top-40 {
+    margin-top: 40px;
+}
+
+.rotate-180 {
+    transform: rotate(180deg);
+    transform-origin: center;
+}
+
+.d-inline-block {
+    display: inline-block;
+}
+
+.grey-back{
+    background-color: #f2f2f2!important;
+}
+
+/***************************about us*/
+
+.about-top .second-text {
+    display: none;
+}
+
+.about-top .second-text p {
+    margin-top: 24px;
+}
+
+.arrow_down, .arrow_up {
+    cursor: pointer;
+
+}
+
+.arrow_down i {
+    transition: all .2s ease;
+}
+
+
+/*********************subsidiaries*/
+
+.company-link i {
+    font-size: 29px;
+}
+
+
+/*******************map*/
+.map{
+    height: 550px;
+}
